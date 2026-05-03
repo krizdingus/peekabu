@@ -36,7 +36,7 @@ The LAN Only Liveview toggle is independent of "LAN-only mode". Cloud and Bambu 
 
 ## Auto-update
 
-Peekabu checks for updates on launch and via **Tray menu, then Check for updates...**. Updates download in the background and install on next quit.
+Peekabu checks for updates on launch and via **Settings, then Check for updates...**. Updates download in the background and install on next quit.
 
 ## Roadmap
 
